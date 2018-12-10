@@ -1,0 +1,22 @@
+{
+  "name": "ts-checkjs-intellisense-repro",
+  "version": "1.0.0",
+  "description": "repro for TypeScript/issues/28853",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkantr/ts-checkjs-intellisense-repro.git"
+  },
+  "author": "Jared Kantrowitz <me@jkantr.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkantr/ts-checkjs-intellisense-repro/issues"
+  },
+  "homepage": "https://github.com/jkantr/ts-checkjs-intellisense-repro#readme",
+  "dependencies": {
+    "@node-sc2/core": "^0.6.3"
+  }
+}
